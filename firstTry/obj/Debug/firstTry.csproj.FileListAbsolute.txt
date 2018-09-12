@@ -1,0 +1,8 @@
+\\VBOXSVR\exe\project\firstTry\firstTry\bin\Debug\firstTry.exe.config
+\\VBOXSVR\exe\project\firstTry\firstTry\bin\Debug\firstTry.exe
+\\VBOXSVR\exe\project\firstTry\firstTry\bin\Debug\firstTry.pdb
+\\VBOXSVR\exe\project\firstTry\firstTry\bin\Debug\Microsoft.Exchange.WebServices.dll
+\\VBOXSVR\exe\project\firstTry\firstTry\bin\Debug\Microsoft.Exchange.WebServices.xml
+\\VBOXSVR\exe\project\firstTry\firstTry\obj\Debug\firstTry.csprojResolveAssemblyReference.cache
+\\VBOXSVR\exe\project\firstTry\firstTry\obj\Debug\firstTry.exe
+\\VBOXSVR\exe\project\firstTry\firstTry\obj\Debug\firstTry.pdb
